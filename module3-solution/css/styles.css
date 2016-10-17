@@ -1,0 +1,31 @@
+body{
+  background-color: blue;
+}
+
+.navbar-brand{
+  height: 70px;
+}
+
+.navbar-brand h1{
+  margin: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+  text-decoration: none;
+}
+
+#nav-list{
+  text-align: center;
+  background-color: white;
+  margin-top: 10px;
+}
+
+#page-heading{
+  color: white;
+}
+
+#main-content{
+  height: 1000px;
+  background-color: white;
+  margin-top: 15px;
+}
