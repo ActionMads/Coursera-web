@@ -1,0 +1,76 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: green;
+}
+
+h2{
+  color: white;
+}
+
+hr{
+  border-color: green;
+  margin: 0;
+}
+
+#logo{
+  background: url("../images/MVMLogo.jpg") no-repeat;
+  width: 100px;
+  height: 100px;
+  margin: 10px 10px 10px 0px;
+}
+
+#header-nav{
+  background-color: black;
+  border: 0;
+  margin-bottom: 20px;
+}
+
+.navbar-brand{
+  height: 100px;
+}
+
+.navbar-brand h1, h2{
+  margin: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+  text-decoration: none;
+}
+
+#nav-list{
+  text-align: center;
+  background-color: green;
+  margin-top: 20px;
+  border-radius: 25px;
+}
+
+#nav-list a{
+  color: black;
+  border: 1px solid;
+}
+
+#nav-list a:hover, #nav-list a:focus{
+  text-decoration: none;
+  background-color: #45f442;
+}
+
+#page-heading{
+  color: white;
+}
+
+#main-content{
+  margin-top: 15px;
+}
+
+#myCarusel-slider{
+  margin: 0 auto;
+  width: 80%;
+}
+
+.item{
+  margin: auto;
+  width: 80%;
+}
