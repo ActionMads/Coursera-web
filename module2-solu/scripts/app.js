@@ -13,7 +13,6 @@
 		itemBuyer.Message = "Everything bought!"
 		itemBuyer.buyItem = function (index) {
 			ShoppingListCheckOffService.buyItem(index);
-
 		}
 		
 		
